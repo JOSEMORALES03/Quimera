@@ -1,0 +1,26 @@
+{
+  "id": "./",
+  "name": "Quimera — Productos y suministros",
+  "short_name": "Quimera",
+  "description": "Tienda móvil de productos químicos y suministros de limpieza.",
+  "lang": "es",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#111916",
+  "theme_color": "#111916",
+  "icons": [
+    {
+      "src": "quimera-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "quimera-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
